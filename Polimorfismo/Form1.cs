@@ -25,7 +25,7 @@ namespace Polimorfismo
             PerformLayout();
         }
     }
-    // Clase base abstracta para todos los empleados
+   
     public abstract class Empleado
     {
         public string Nombre { get; set; }
@@ -35,11 +35,11 @@ namespace Polimorfismo
             Nombre = nombre;
         }
 
-        // Método abstracto para calcular el salario, implementado en las clases derivadas
+     
         public abstract double CalcularSalario();
     }
 
-    // Clase para Docentes por Hora
+  
     public class DocentePorHora : Empleado
     {
         public int HorasTrabajadas { get; set; }
@@ -50,14 +50,14 @@ namespace Polimorfismo
             HorasTrabajadas = horasTrabajadas;
         }
 
-        // Implementación del cálculo del salario para docentes por hora
+        // ImplementaciÃ³n del cÃ¡lculo del salario para docentes por hora
         public override double CalcularSalario()
         {
             return HorasTrabajadas * TarifaPorHora;
         }
     }
 
-    // Clase para Docentes de Contrato Fijo
+  
     public class DocenteFijo : Empleado
     {
         public double SalarioBase { get; set; }
@@ -69,14 +69,14 @@ namespace Polimorfismo
             AlcanzoMeta = alcanzoMeta;
         }
 
-        // Implementación del cálculo del salario para docentes fijos
+      
         public override double CalcularSalario()
         {
             return AlcanzoMeta ? SalarioBase : SalarioBase / 2;
         }
     }
 
-    // Clase para Empleados Administrativos
+  
     public class Administrativo : Empleado
     {
         public double SalarioBase { get; set; }
@@ -88,7 +88,7 @@ namespace Polimorfismo
             AlcanzoMeta = alcanzoMeta;
         }
 
-        // Implementación del cálculo del salario para empleados administrativos
+     
         public override double CalcularSalario()
         {
             return AlcanzoMeta ? SalarioBase : SalarioBase / 2;
