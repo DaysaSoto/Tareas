@@ -1,0 +1,16 @@
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0-windows\Polimorfismo.Form1.resources
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0-windows\Polimorfismo.csproj.GenerateResource.cache
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0-windows\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0-windows\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0-windows\Polimorfismo.AssemblyInfo.cs
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0-windows\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\bin\Debug\net8.0-windows\Polimorfismo.exe
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\bin\Debug\net8.0-windows\Polimorfismo.deps.json
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\bin\Debug\net8.0-windows\Polimorfismo.runtimeconfig.json
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\bin\Debug\net8.0-windows\Polimorfismo.dll
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\bin\Debug\net8.0-windows\Polimorfismo.pdb
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0-windows\Polimorfismo.dll
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0-windows\refint\Polimorfismo.dll
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0-windows\Polimorfismo.pdb
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0-windows\Polimorfismo.genruntimeconfig.cache
+C:\Users\d20b2875\source\repos\Polimorfismo\Polimorfismo\obj\Debug\net8.0-windows\ref\Polimorfismo.dll
